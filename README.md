@@ -2,6 +2,8 @@
 
 PyJudgeAPI is an ExpressJS API designed to execute and grade Python code on the server-side. This API provides a reliable and secure environment for running educational exercises, grading programming assignments, or testing code snippets in Python.
 
+This API is part of the larger project [ObieCode](https://obiecode.vercel.app/), which is used to run Python in the backend.
+
 ### Features
 
 - Execute Python Code: PyJudgeAPI allows users to submit Python code for execution on the server, providing real-time feedback on the output and potential errors.
